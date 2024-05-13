@@ -287,8 +287,9 @@ function hapusData(id, statusaktif)
                                 <tr>
                                     <th>No Surat</th>                                       
                                     <th>Tanggal Surat</th>                                       
-                                    <th>Jenis Surat </th>                                       
-                                    <th>Instansi Asal Surat</th>                                       
+                                    <th>Nama Jabatan    </th>                                       
+                                    <th>Jumlah  </th>                                       
+                                    <th>Perangkat Daerah / Unit Organisasi        </th>
                                     <th>Aksi</th>   
                                 </tr>
                             </thead>
